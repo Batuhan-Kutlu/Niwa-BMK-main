@@ -56,7 +56,7 @@ Wat ik vooral goed vind aan mijn idee, is dat de poorten verschillende kanten va
 
 Ik wil ook inspiratie gebruiken uit de Japanse **Goshuin**. Dit zijn speciale stempels die mensen kunnen verzamelen bij tempels en heiligdommen in Japan.
 
-Ik wil dit idee gebruiken voor mijn Digital Garden. Wanneer iemand een poort ontdekt, kan die persoon een **digitale stempel** verzamelen.
+Ik wil dit idee gebruiken voor mijn Digital Garden. Wanneer iemand een poort ontdekt, kan die persoon een digitale stempel verzamelen.
 
 Zo ontstaat er uiteindelijk een persoonlijke verzameling van stempels.
 
