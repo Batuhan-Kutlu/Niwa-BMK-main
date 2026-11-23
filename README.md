@@ -94,23 +94,27 @@ Daarnaast heb ik geleerd dat je een website ook een **toggle** kunt geven, zodat
 
 Wat ik vooral uit het practicum heb gehaald, is dat custom properties ervoor zorgen dat je CSS overzichtelijker wordt. Als je bijvoorbeeld een kleur wilt veranderen, hoef je dit maar op één plek aan te passen. Dit kan ik later ook gebruiken voor mijn eigen Digital Garden NIWA BK, bijvoorbeeld voor verschillende thema’s en kleuren.
 
+
+
 ## Presenteren NIWA BK
 
-### Wat is voor jou de essentie van wat je hebt gepresenteerd?
+**Wat is voor jou de essentie van wat je hebt gepresenteerd?**
 
 De essentie van mijn presentatie is mijn eigen verhaal en de dingen die mij inspireren. Vooral de combinatie van Rome, Japan, cultuur en design past bij mij. Ik wil deze interesses samenbrengen in één persoonlijke Digital Garden.
 
-### Heeft ‘de ander’ een aanvulling op je onderwerp?
+**Heeft ‘de ander’ een aanvulling op je onderwerp?**
 
 Een goede aanvulling is om meer persoonlijke herinneringen, foto's en eigen projecten toe te voegen. Hierdoor laat ik niet alleen zien wat ik interessant vind, maar ook wie ik ben en wat ik heb meegemaakt.
 
-### Wat is het karakter, de uitstraling en het gevoel?
+**Wat is het karakter, de uitstraling en het gevoel?**
 
 Ik wil een sfeer creëren die rustig, uniek en klassiek voelt. De bezoeker moet het gevoel krijgen dat hij een wereld binnenkomt waarin hij zelf dingen kan ontdekken.
 
-### Welke inspiratie haal je uit de afbeeldingen?
+**Welke inspiratie haal je uit de afbeeldingen?**
 
 Ik haal inspiratie uit Romeinse bogen en architectuur, maar ook uit Japanse patronen, stempels en traditionele vormen. Materialen zoals steen en hout geven mij inspiratie voor de uitstraling van NIWA BK.
+
+
 
 ### Feedback crazy 8 – NIWA BMK
 
@@ -129,7 +133,4 @@ Ja. De poorten kunnen klikbare onderdelen worden. De kleuren kunnen crème, zand
 **4. Is het expressief en uitdagend?**
 
 Ja. Ik kan werken met animaties waarbij poorten openen, stempels verschijnen en pagina's vloeiend overgaan. Hiermee kan ik nieuwe CSS en JavaScript technieken leren.
-
-[afbeelding]
-
 ![alt text](image.png)
