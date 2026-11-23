@@ -116,7 +116,7 @@ Ik haal inspiratie uit Romeinse bogen en architectuur, maar ook uit Japanse patr
 
 
 
-### Feedback crazy 8 – NIWA BMK
+# Feedback crazy 8 – NIWA BMK
 
 **1. Wat zijn de beste ideeën en waarom?**
 
