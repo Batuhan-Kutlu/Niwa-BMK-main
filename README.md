@@ -11,7 +11,7 @@
 ## Opdracht 1
 Door deze opdracht heb ik geleerd om websites niet alleen op uiterlijk te beoordelen, maar ook te kijken naar wat een website webby maakt. Ik heb geleerd om te letten op interactie, dynamiek, gebruik van het web en hoe een gebruiker de website ervaart. Ook heb ik gemerkt dat mijn eigen smaak invloed heeft op mijn mening. Dit helpt mij om beter na te denken over mijn eigen Digital Garden en welke interactieve elementen ik wil gebruiken.
 
-[afbeelding]
+
 
 ## Opdracht 2 - Eigen verkenning
 
@@ -93,7 +93,9 @@ Ook heb ik geleerd hoe color-scheme, prefers-color-scheme en light-dark() werken
 Daarnaast heb ik geleerd dat je een website ook een **toggle** kunt geven, zodat de bezoeker zelf kan kiezen tussen licht, donker of automatisch. Ik vind dit handig omdat je hiermee de website beter kunt aanpassen aan de gebruiker.
 
 Wat ik vooral uit het practicum heb gehaald, is dat custom properties ervoor zorgen dat je CSS overzichtelijker wordt. Als je bijvoorbeeld een kleur wilt veranderen, hoef je dit maar op één plek aan te passen. Dit kan ik later ook gebruiken voor mijn eigen Digital Garden NIWA BK, bijvoorbeeld voor verschillende thema’s en kleuren.
-
+![alt text](lightdark_practicum.png)
+![alt text](lightdark_practicum2.png)
+![alt text](lightdark_practicum3.png)
 
 
 ## Presenteren NIWA BK
@@ -116,7 +118,7 @@ Ik haal inspiratie uit Romeinse bogen en architectuur, maar ook uit Japanse patr
 
 
 
-# Feedback crazy 8 – NIWA BMK
+## Feedback crazy 8 – NIWA BMK
 
 **1. Wat zijn de beste ideeën en waarom?**
 
