@@ -1,12 +1,10 @@
 
-# de log van Batuhan Kutlu
+# De log van Batuhan Kutlu
 
 ## 9 nov kick-0ff
 1. github is een shp. ik heb github gekozen omdat ik al eerder github heb gewerkt dus was dat voor mij de beste optie
 2. ik heb niwa bk gekozen omdat niwa tuin is in het japans en bk mijn initialen zijn ik weet nog niet zeker welke richting ik op ga met de garden maar vond het wel dat ik de cultuur van japan ook erin terug wil verwerken omdat ik toen ik daar was erg was aangetrokken met hun kunst en cultuur
 3. ik kan aanpassingen doen via vsc en ctrl s klikken om die op te slaan.
-
-# de log van Batuhan Kutlu
 
 ## Opdracht 1
 Door deze opdracht heb ik geleerd om websites niet alleen op uiterlijk te beoordelen, maar ook te kijken naar wat een website webby maakt. Ik heb geleerd om te letten op interactie, dynamiek, gebruik van het web en hoe een gebruiker de website ervaart. Ook heb ik gemerkt dat mijn eigen smaak invloed heeft op mijn mening. Dit helpt mij om beter na te denken over mijn eigen Digital Garden en welke interactieve elementen ik wil gebruiken.
@@ -44,17 +42,17 @@ Ik wil verschillende interactieve elementen gebruiken op mijn website, zoals:
 
 ### Mijn eigen content
 
-Mijn website gaat vooral over **mijzelf**. Ik wil laten zien wie ik ben, wat ik leuk vind en wat ik leer.
+Mijn website gaat vooral over mijzelf. Ik wil laten zien wie ik ben, wat ik leuk vind en wat ik leer.
 
-Ik kan bijvoorbeeld mijn CMD-projecten laten zien en vertellen wat ik tijdens mijn studie heb geleerd. Ook wil ik onderwerpen toevoegen die ik interessant vind, zoals **Japanse cultuur, de geschiedenis van Rome en muziek**.
+Ik kan bijvoorbeeld mijn CMD-projecten laten zien en vertellen wat ik tijdens mijn studie heb geleerd. Ook wil ik onderwerpen toevoegen die ik interessant vind, zoals **Japanse cultuur, de geschiedenis van Rome en muziek.
 
-De stijl van mijn website wordt **rustig, persoonlijk en een beetje mysterieus**. Ik wil dat de website netjes en classy aanvoelt.
+De stijl van mijn website wordt rustig, persoonlijk en een beetje mysterieus. Ik wil dat de website netjes en classy aanvoelt.
 
 Wat ik vooral goed vind aan mijn idee, is dat de poorten verschillende kanten van mij kunnen laten zien. De bezoeker ontdekt steeds een nieuw stukje van mijn verhaal.
 
 ### Goshuin
 
-Ik wil ook inspiratie gebruiken uit de Japanse **Goshuin**. Dit zijn speciale stempels die mensen kunnen verzamelen bij tempels en heiligdommen in Japan.
+Ik wil ook inspiratie gebruiken uit de Japanse Goshuin. Dit zijn speciale stempels die mensen kunnen verzamelen bij tempels en heiligdommen in Japan.
 
 Ik wil dit idee gebruiken voor mijn Digital Garden. Wanneer iemand een poort ontdekt, kan die persoon een digitale stempel verzamelen.
 
@@ -84,6 +82,21 @@ In plaats van alleen te vertellen wie ik ben, wil ik dat mensen mijn website zel
 
 Het Colosseum is hierbij mijn wereld. De verschillende poorten laten verschillende kanten van mij zien.
 
+# Checkout 
+
+**1. Wat is een Digital Garden?**
+
+Een Digital Garden is een persoonlijke website die steeds kan groeien en veranderen. Het is anders dan een normale website omdat je ideeën en content op een vrije en interactieve manier kunt ontdekken.
+
+**2. Wat maakt een website webby?**
+
+Een website is webby als je gebruikmaakt van interactie, animaties, hover-effecten, links en scrollen. Ik vind websites vooral interessant als je zelf dingen kunt ontdekken.
+
+**3. Mijn Digital Garden**
+
+Mijn Digital Garden heet **NIWA BMK**. Ik maak een digitaal Colosseum waarin verschillende poorten verschillende kanten van mij laten zien. Met inspiratie uit de Japanse **Goshuin** kan de bezoeker digitale stempels verzamelen tijdens het ontdekken.
+
+
 ## Di: Practicum Light & Dark theme (Sanne)
 
 Tijdens dit practicum heb ik geleerd hoe ik met CSS custom properties een light en dark mode kan maken. Ik heb geleerd dat je kleuren en andere onderdelen van je design één keer kunt instellen en daarna op meerdere plekken kunt gebruiken.
@@ -93,6 +106,7 @@ Ook heb ik geleerd hoe color-scheme, prefers-color-scheme en light-dark() werken
 Daarnaast heb ik geleerd dat je een website ook een **toggle** kunt geven, zodat de bezoeker zelf kan kiezen tussen licht, donker of automatisch. Ik vind dit handig omdat je hiermee de website beter kunt aanpassen aan de gebruiker.
 
 Wat ik vooral uit het practicum heb gehaald, is dat custom properties ervoor zorgen dat je CSS overzichtelijker wordt. Als je bijvoorbeeld een kleur wilt veranderen, hoef je dit maar op één plek aan te passen. Dit kan ik later ook gebruiken voor mijn eigen Digital Garden NIWA BK, bijvoorbeeld voor verschillende thema’s en kleuren.
+
 ![alt text](lightdark_practicum.png)
 ![alt text](lightdark_practicum2.png)
 ![alt text](lightdark_practicum3.png)
@@ -118,6 +132,19 @@ Ik haal inspiratie uit Romeinse bogen en architectuur, maar ook uit Japanse patr
 
 
 
+## Visual Research – NIWA BK
+
+ Voor mijn Digital Garden NIWA BK ben ik begonnen met de sfeerwoorden betekenisvol en mystiek. Deze woorden passen bij mijn idee om mijn herinneringen, reizen, interesses en ontwikkeling op een persoonlijke manier te laten zien. 
+ 
+ Tijdens mijn visual research heb ik gekeken naar mijn eigen foto's uit Rome en Japan en naar verschillende ontwerpen. Ik herken vooral bogen, poorten, klassieke vormen, papierstructuren, warme kleuren en verschillende typografieën. Van de vier gekozen afbeeldingen heb ik verschillende kenmerken meegenomen. 
+ 
+ De Romeinse beelden geven mij een klassieke, rustige en luxe uitstraling. De Japanse posters geven juist een speelse en energieke uitstraling. De combinatie van creme, zandkleur, bruin en donkerrood, samen met klassieke en speelse typografie, past goed bij mijn idee. 
+ 
+ Deze kenmerken wil ik meebrengen in mijn stijlguide. Ik wil hiermee een website maken die persoonlijk, rustig en mysterieus voelt. De bezoeker moet het gevoel krijgen dat hij door mijn wereld loopt en steeds iets nieuws ontdekt.
+ ![alt text](visualresearch.png)
+![alt text](uitgangpunten_collage.png)
+
+
 ## Feedback crazy 8 – NIWA BMK
 
 **1. Wat zijn de beste ideeën en waarom?**
@@ -136,3 +163,84 @@ Ja. De poorten kunnen klikbare onderdelen worden. De kleuren kunnen crème, zand
 
 Ja. Ik kan werken met animaties waarbij poorten openen, stempels verschijnen en pagina's vloeiend overgaan. Hiermee kan ik nieuwe CSS en JavaScript technieken leren.
 ![alt text](image.png)
+
+
+ ## Mogelijke kleurenpallet uit inspiratie van de collage
+
+ ![alt text](kleurenpallet.png)
+
+Mijn huidige kleurenpalet is gebaseerd op de vier gekozen afbeeldingen uit mijn visual research. Ik wil vooral werken met verschillende zachte creme en zandtinten, gecombineerd met 1 duidelijke accentkleur: bordeauxrood.
+
+Omdat mijn drie thema’s verschillende stijlen combineren, wil ik met het kleurgebruik een goede overgang tussen deze stijlen creëren. De Romeinse stijl geeft een klassieke, rustige en luxe uitstraling, terwijl de Japanse inspirati* juist drukker, speelser en opvallender is door de typografie.
+
+Door deze kleuren als basis te gebruiken en bordeauxrood als accentkleur in te zetten, wil ik deze twee stijlen met elkaar verbinden. Zo blijft de website rustig en classy, maar krijgt het ook genoeg contrast en karakter.
+
+## Mogelijke typografie
+
+Mogelijk typografie mix met kallografie van goshuin en de klassiekheid van de romeinse stijl.
+
+![alt text](mlettertype1.png)
+![alt text](mlettertype2.png)
+![alt text](mlettertype3.png)
+
+
+## Check-out
+
+**1. Waar werkt Visual Research in 3 stappen naartoe?**
+
+Visual Research helpt mij om van inspiratie naar een duidelijke stijl en een ontwerpidee te komen. Ik onderzoek eerst voorbeelden, daarna bepaal ik kenmerken zoals kleur, typografie en sfeer en gebruik ik deze voor mijn eigen concept.
+
+**2. Waar gaat jouw Garden over?**
+
+Mijn Digital Garden NIWA BMK gaat over mij, mijn herinneringen en interesses. Het Colosseum is de basis van mijn Garden en met Goshuin stempels wil ik mijn bezochte plekken en ontdekkingen op een interactieve manier verzamelen.
+
+**3. Welk idee van de Crazy 8 wil je verder onderzoeken?**
+
+Ik wil het idee van het Colosseum als startpunt verder onderzoeken. De verschillende poorten leiden naar onderdelen van mijn en bijvoorbeeld interesses.
+
+
+## Wat ik uit het practicum heb gehaald
+
+Tijdens dit practicum heb ik geleerd hoe je **kleuren en gradients in CSS** kunt gebruiken. Ik heb verschillende soorten gradients uitgeprobeerd, zoals linear-gradient(), radial-gradient() en conic-gradient().
+
+Ook heb ik geleerd hoe je custom properties kunt gebruiken om kleuren in CSS overzichtelijk te maken. Daarna heb ik geprobeerd om een Turkse vlag na te maken met CSS. Het lukte mij om de maan te maken, maar de rest van de vlag kreeg ik nog niet goed voor elkaar.
+
+![alt text](woensdagprac1.png)
+![alt text](turksevlagprac.png)
+
+
+## Mobile schetsen
+
+![alt text](schetsen1.png) ![alt text](schetsen2.jpg)
+
+### Opdracht 12 – Bespreken huiswerk
+
+** 1. Zijn mijn schetsen Webby genoeg?**
+
+Ik vind mijn schetsen Webby genoeg, omdat ik meerdere interactieve onderdelen heb bedacht. De bezoeker kan bijvoorbeeld op poorten klikken, door projecten bladeren en Goshuin-stempels verzamelen. Ook heb ik nagedacht over hover-effecten, animaties en scrollen.
+
+**2. Hoe kan ik mijn ontwerp opbouwen in HTML en CSS?**
+
+Ik kan mijn website opdelen in verschillende onderdelen, zoals Hero, Over mij, Mijn werelden, Projecten, Reis & Inspiratie en Contact. Deze onderdelen kan ik met HTML onder elkaar zetten. Met CSS kan ik daarna de layout, kleuren, afbeeldingen en responsive gedrag maken.
+
+Mijn vijf poorten kan ik bijvoorbeeld als losse elementen binnen één onderdeel maken. Op mobiel komen ze onder elkaar te staan en op grotere schermen kunnen ze naast elkaar komen.
+
+**3. Wat vind ik lastig?**
+
+Ik vind vooral de **interactie van de poorten en Goshuin-stempels** lastig. Ik wil dat er iets gebeurt wanneer de bezoeker op een poort klikt. Ook moet ik ervoor zorgen dat mijn ontwerp op verschillende schermformaten goed blijft werken.
+
+**4. Mijn definitieve bouwplan**
+
+Mijn basis wordt een mobile-first onepager. Ik begin met de HTML-structuur en bouw daarna de layout met CSS. Ik wil eerst de belangrijkste onderdelen maken en daarna de interacties toevoegen. De Colosseum, poorten en Goshuin blijven de belangrijkste elementen van NIWA BK.
+
+
+
+## Opdracht 13 – Van schets naar HTML
+
+Ik heb mijn schets bekeken en nagedacht over wat de verschillende onderdelen eigenlijk zijn. De titel van mijn website wordt een **h1**. De verschillende onderdelen van mijn Digital Garden, zoals **Design, Interests, Memories, Places en Future**, zijn links waarmee de bezoeker naar een ander onderdeel kan gaan.
+
+De poorten uit mijn schets zie ik daarom als links (`<a>`). Ik kan deze links bij elkaar zetten in een lijst. De afbeeldingen en teksten die ik gebruik zijn losse onderdelen van mijn pagina en kan ik met HTML-elementen zoals `<img>`, `<p>` en verschillende koppen opbouwen.
+
+## Check out
+
+Ik kreeg feedback dat er goed is nagedacht over het grote verschil tussen de twee stijlen. De dynamiek tussen de Romeinse en Japanse stijl is slim gedempt door mijn gekozen kleurenpalet. Ook kreeg ik tips over hoe ik het beste kan beginnen met het maken van mijn HTML.
