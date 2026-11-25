@@ -16,13 +16,13 @@ Door deze opdracht heb ik geleerd om websites niet alleen op uiterlijk te beoord
 ## Opdracht 2 - Eigen verkenning
 
 
-Mijn Digital Garden: NIWA BMK
+**Mijn Digital Garden: NIWA BMK****
 
 Voor mijn Digital Garden wil ik een persoonlijke website maken die NIWA BMK heet. *Niwa* betekent “tuin” in het Japans. Mijn website wordt geïnspireerd door het Colosseum in Rome. Ik wil dat de bezoeker in het midden van het Colosseum begint. Vanuit daar kan de bezoeker verschillende poorten ontdekken en openen.
 
 Elke poort staat voor een ander deel van mij. Op deze manier kan ik mijn interesses, herinneringen, projecten en toekomst laten zien.
 
-### Wat wil ik maken?
+ **Wat wil ik maken?**
 
 Ik wil geen normale website maken waar je alleen door verschillende pagina’s klikt. Ik wil dat de bezoeker zelf dingen kan ontdekken.
 
@@ -30,7 +30,7 @@ In het Colosseum komen verschillende poorten. Achter elke poort staat een ander 
 
 De bezoeker kan zelf kiezen welke poort hij wil openen. Hierdoor kan iedereen de website op zijn eigen manier ontdekken.
 
-### Webby dingen
+**Webby dingen**
 
 Ik wil verschillende interactieve elementen gebruiken op mijn website, zoals:
 
@@ -42,7 +42,7 @@ Ik wil verschillende interactieve elementen gebruiken op mijn website, zoals:
 - Verborgen informatie
 - Scroll-effecten
 
-### Mijn eigen content
+**Mijn eigen content**
 
 Mijn website gaat vooral over mijzelf. Ik wil laten zien wie ik ben, wat ik leuk vind en wat ik leer.
 
@@ -52,7 +52,7 @@ De stijl van mijn website wordt rustig, persoonlijk en een beetje mysterieus. Ik
 
 Wat ik vooral goed vind aan mijn idee, is dat de poorten verschillende kanten van mij kunnen laten zien. De bezoeker ontdekt steeds een nieuw stukje van mijn verhaal.
 
-### Goshuin
+**Goshuin**
 
 Ik wil ook inspiratie gebruiken uit de Japanse Goshuin. Dit zijn speciale stempels die mensen kunnen verzamelen bij tempels en heiligdommen in Japan.
 
@@ -60,7 +60,7 @@ Ik wil dit idee gebruiken voor mijn Digital Garden. Wanneer iemand een poort ont
 
 Zo ontstaat er uiteindelijk een persoonlijke verzameling van stempels.
 
-### Content van anderen
+**Content van anderen**
 
 Voor sommige informatie wil ik bronnen van anderen gebruiken. Bijvoorbeeld voor informatie over het Colosseum en de geschiedenis van Rome.
 
@@ -68,7 +68,7 @@ Voor afbeeldingen wil ik vooral eigen afbeeldingen gebruiken omdat ik zelf naar 
 
 Op deze manier blijft de website vooral mijn eigen verhaal.
 
-### Hoe kan je de website ervaren?
+**Hoe kan je de website ervaren?**
 
 Ik wil dat de bezoeker niet alleen tekst leest, maar de website ook echt ervaart.
 
@@ -76,7 +76,7 @@ De bezoeker begint in het Colosseum. Vanuit daar kan hij verschillende poorten b
 
 Het verzamelen van de stempels geeft de bezoeker een reden om verschillende onderdelen van mijn website te bekijken. Hierdoor wordt de website niet alleen een interactieve ervaring.
 
-### Het doel
+**Het doel**
 
 Het doel van NIWA BK is om mensen op een leuke en persoonlijke manier kennis te laten maken met mij.
 
