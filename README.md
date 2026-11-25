@@ -244,3 +244,18 @@ De poorten uit mijn schets zie ik daarom als links (`<a>`). Ik kan deze links bi
 ## Check out
 
 Ik kreeg feedback dat er goed is nagedacht over het grote verschil tussen de twee stijlen. De dynamiek tussen de Romeinse en Japanse stijl is slim gedempt door mijn gekozen kleurenpalet. Ook kreeg ik tips over hoe ik het beste kan beginnen met het maken van mijn HTML.
+
+
+
+
+## Opdracht 18 contrast
+
+Voor deze opdracht heb ik mijn mobiele schermschets van mijn Digital Garden laten bekijken door een klasgenoot. Ik kreeg vooral positieve feedback op mijn ontwerp. Een idee dat ik erbij kreeg, was om het Goshuin-boekje verder te laten uitklappen. Hierdoor kan de bezoeker meer van het boekje zien en kan de tekst in het boekje zelf komen te staan. Dit past goed bij het idee van mijn digitale Goshuin-boekje en maakt de interactie duidelijker en interessanter. Verder kreeg ik positieve feedback op de opbouw en het ontwerp.
+
+![alt text](opdracht18.jpg)
+
+
+## Opdracht 19 & 20
+
+![alt text](opdracht1920.jpg)
+

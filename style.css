@@ -1,0 +1,112 @@
+:root {
+    --achtergrond: #eee5d7;
+    --papier: #f5eee3;
+    --steen: #d8cbb8;
+    --tekst: #211c18;
+    --rood: #9b302f;
+    --ruimte: 20px;
+}
+
+body {
+    margin: 0;
+    background-color: var(--achtergrond);
+    color: var(--tekst);
+    font-family: Georgia, serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: var(--ruimte);
+    border-bottom: 1px solid var(--tekst);
+}
+
+header a {
+    color: var(--tekst);
+    font-size: 24px;
+    font-style: italic;
+    text-decoration: none;
+}
+
+button {
+    background: none;
+    border: none;
+    font-size: 24px;
+}
+
+section {
+    padding: 40px var(--ruimte);
+    text-align: center;
+}
+
+section img {
+    width: 100%;
+    max-width: 400px;
+}
+
+h1 {
+    font-size: 50px;
+    font-style: italic;
+}
+
+h2 {
+    font-size: 35px;
+    font-style: italic;
+}
+
+p {
+    font-size: 18px;
+}
+
+section a {
+    display: inline-block;
+    margin: 15px;
+    padding: 10px 20px;
+    border: 2px solid var(--rood);
+    border-radius: 30px;
+    color: var(--rood);
+    text-decoration: none;
+}
+
+
+
+li a:hover {
+    background-color: var(--rood);
+    color: var(--achtergrond);
+}
+
+footer {
+    padding: var(--ruimte);
+    text-align: center;
+    border-top: 1px solid var(--tekst);
+}
+
+.hero {
+    position: relative;
+    overflow: hidden;
+}
+
+.colosseum {
+    width: 100%;
+    display: block;
+}
+
+.sakura {
+    position: absolute;
+
+    left: -20px;
+    bottom: 0;
+
+    width: 45%;
+}
+
+.hero-content {
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+    text-align: center;
+}
