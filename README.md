@@ -107,9 +107,9 @@ Daarnaast heb ik geleerd dat je een website ook een **toggle** kunt geven, zodat
 
 Wat ik vooral uit het practicum heb gehaald, is dat custom properties ervoor zorgen dat je CSS overzichtelijker wordt. Als je bijvoorbeeld een kleur wilt veranderen, hoef je dit maar op één plek aan te passen. Dit kan ik later ook gebruiken voor mijn eigen Digital Garden NIWA BK, bijvoorbeeld voor verschillende thema’s en kleuren.
 
-![alt text](lightdark_practicum.png)
-![alt text](lightdark_practicum2.png)
-![alt text](lightdark_practicum3.png)
+![alt text](readme-images/lightdark_practicum.png)
+![alt text](readme-images/lightdark_practicum2.png)
+![alt text](readme-images/lightdark_practicum3.png)
 
 
 ## Presenteren NIWA BK
@@ -118,7 +118,7 @@ Wat ik vooral uit het practicum heb gehaald, is dat custom properties ervoor zor
 
 De essentie van mijn presentatie is mijn eigen verhaal en de dingen die mij inspireren. Vooral de combinatie van Rome, Japan, cultuur en design past bij mij. Ik wil deze interesses samenbrengen in één persoonlijke Digital Garden.
 
-**Heeft ‘de ander’ een aanvulling op je onderwerp?**
+**Heeft de ander een aanvulling op je onderwerp?**
 
 Een goede aanvulling is om meer persoonlijke herinneringen, foto's en eigen projecten toe te voegen. Hierdoor laat ik niet alleen zien wat ik interessant vind, maar ook wie ik ben en wat ik heb meegemaakt.
 
@@ -141,8 +141,8 @@ Ik haal inspiratie uit Romeinse bogen en architectuur, maar ook uit Japanse patr
  De Romeinse beelden geven mij een klassieke, rustige en luxe uitstraling. De Japanse posters geven juist een speelse en energieke uitstraling. De combinatie van creme, zandkleur, bruin en donkerrood, samen met klassieke en speelse typografie, past goed bij mijn idee. 
  
  Deze kenmerken wil ik meebrengen in mijn stijlguide. Ik wil hiermee een website maken die persoonlijk, rustig en mysterieus voelt. De bezoeker moet het gevoel krijgen dat hij door mijn wereld loopt en steeds iets nieuws ontdekt.
- ![alt text](visualresearch.png)
-![alt text](uitgangpunten_collage.png)
+ ![alt text](readme-images/visualresearch.png)
+ ![alt text](readme-images/uitgangpunten_collage.png)
 
 
 ## Feedback crazy 8 – NIWA BMK
@@ -179,9 +179,9 @@ Door deze kleuren als basis te gebruiken en bordeauxrood als accentkleur in te z
 
 Mogelijk typografie mix met kallografie van goshuin en de klassiekheid van de romeinse stijl.
 
-![alt text](mlettertype1.png)
-![alt text](mlettertype2.png)
-![alt text](mlettertype3.png)
+![alt text](readme-images/mlettertype1.png)
+![alt text](readme-images/mlettertype2.png)
+![alt text](readme-images/mlettertype3.png)
 
 
 ## Check-out
@@ -205,17 +205,17 @@ Tijdens dit practicum heb ik geleerd hoe je **kleuren en gradients in CSS** kunt
 
 Ook heb ik geleerd hoe je custom properties kunt gebruiken om kleuren in CSS overzichtelijk te maken. Daarna heb ik geprobeerd om een Turkse vlag na te maken met CSS. Het lukte mij om de maan te maken, maar de rest van de vlag kreeg ik nog niet goed voor elkaar.
 
-![alt text](woensdagprac1.png)
-![alt text](turksevlagprac.png)
+![alt text](readme-images/woensdagprac1.png)
+![alt text](readme-images/turksevlagprac.png)
 
 
 ## Mobile schetsen
 
-![schetsen1](readme-images/schetsen1.png) ![alt text](schetsen2.jpg)
+![alt text](readme-images/schetsen2.jpg) ![schetsen1](readme-images/schetsen1.png)
 
 ### Opdracht 12 – Bespreken huiswerk
 
-** 1. Zijn mijn schetsen Webby genoeg?**
+**1. Zijn mijn schetsen Webby genoeg?**
 
 Ik vind mijn schetsen Webby genoeg, omdat ik meerdere interactieve onderdelen heb bedacht. De bezoeker kan bijvoorbeeld op poorten klikken, door projecten bladeren en Goshuin-stempels verzamelen. Ook heb ik nagedacht over hover-effecten, animaties en scrollen.
 
@@ -235,11 +235,21 @@ Mijn basis wordt een mobile-first onepager. Ik begin met de HTML-structuur en bo
 
 
 
-## Opdracht 13 – Van schets naar HTML
+## Opdracht 13 & 14 – Van schets naar HTML
 
-Ik heb mijn schets bekeken en nagedacht over wat de verschillende onderdelen eigenlijk zijn. De titel van mijn website wordt een **h1**. De verschillende onderdelen van mijn Digital Garden, zoals **Design, Interests, Memories, Places en Future**, zijn links waarmee de bezoeker naar een ander onderdeel kan gaan.
+Van schermschets naar HTML
+Ik ben begonnen met mijn schermschets van de Digital Garden. Eerst heb ik gekeken welke onderdelen er op mijn scherm staan en wat deze onderdelen betekenen. Daarna heb ik deze onderdelen vertaald naar HTML-elementen.
 
-De poorten uit mijn schets zie ik daarom als links (`<a>`). Ik kan deze links bij elkaar zetten in een lijst. De afbeeldingen en teksten die ik gebruik zijn losse onderdelen van mijn pagina en kan ik met HTML-elementen zoals `<img>`, `<p>` en verschillende koppen opbouwen.
+Tijdens het maken heb ik ook tips gekregen van de hulpstudenten. Zij adviseerden mij om mijn onderdelen goed op te delen en alles wat bij elkaar hoort in (section) elementen te zetten. Hierdoor werd mijn HTML overzichtelijker en kon ik mijn pagina beter structureren.
+
+Voor de hero heb ik gekeken naar de belangrijkste onderdelen van mijn ontwerp: het Colosseum, de Sakura, de titel NIWA BK, de tekst en de link. De afbeeldingen heb ik met (img) toegevoegd. De titel heb ik als (h1) gebruikt, de tekst als (p) en “Ontdek mijn wereld” als (a).
+
+Daarna heb ik het Goshuin-gedeelte gemaakt. Hiervoor heb ik een (section) gebruikt met een (h2), een (p), een afbeelding en een link naar de Goshuin-pagina.
+
+Voor Mijn Werelden heb ik meerdere onderdelen die bij elkaar horen bij elkaar gezet. Hierbij heb ik handige tips gekregen over het maken van mijn list. Ik heb hiervoor een(nav) gebruikt met een (ul) en meerdere (li) elementen. In deze lijst staan mijn verschillende werelden, zoals Design, Interesses, Projecten, Reizen en Toekomst. Iedere wereld is een link naar een eigen pagina.
+
+![alt text](readme-images/opdracht18.jpg)
+
 
 ## Check out
 
@@ -252,10 +262,22 @@ Ik kreeg feedback dat er goed is nagedacht over het grote verschil tussen de twe
 
 Voor deze opdracht heb ik mijn mobiele schermschets van mijn Digital Garden laten bekijken door een klasgenoot. Ik kreeg vooral positieve feedback op mijn ontwerp. Een idee dat ik erbij kreeg, was om het Goshuin-boekje verder te laten uitklappen. Hierdoor kan de bezoeker meer van het boekje zien en kan de tekst in het boekje zelf komen te staan. Dit past goed bij het idee van mijn digitale Goshuin-boekje en maakt de interactie duidelijker en interessanter. Verder kreeg ik positieve feedback op de opbouw en het ontwerp.
 
-![alt text](opdracht18.jpg)
+![alt text](readme-images/opdracht18.jpg)
 
 
 ## Opdracht 19 & 20
 
-![alt text](opdracht1920.jpg)
+![alt text](readme-images/opdracht1920.jpg)
 
+## Van HTML naar CSS
+
+Nadat ik mijn HTML had gemaakt, ben ik begonnen met het vormgeven van mijn Digital Garden met CSS. Ik heb eerst mijn CSS variabelen aangemaakt voor de kleuren en de ruimte. Hierdoor kan ik dezelfde kleuren op verschillende plekken gebruiken zonder steeds de kleurcode opnieuw te schrijven.
+
+Daarna heb ik de verschillende onderdelen van mijn website gestyled, zoals de header, teksten, knoppen, sections en footer. Voor mijn hero heb ik vooral gekeken naar de positie van de afbeeldingen. Ik wilde het Colosseum aan de rechterkant en de Sakura aan de linkerkant van mijn tekst plaatsen. Hiervoor heb ik position: absolute gebruikt en met right, left, top en width de afbeeldingen op de juiste plek gezet.
+
+Ik heb hierbij opnieuw hulp en tips gekregen van de hulpstudenten. Zij hebben mij geholpen met het positioneren van de afbeeldingen en met het begrijpen en toepassen van media queries. Ook kreeg ik verschillende losse tips over mijn CSS en hoe ik bepaalde onderdelen beter kon aanpassen.
+
+## Tot nu toe
+
+![](readme-images/totnutoe1.png)
+![](readme-images/totnutoe2.png)
