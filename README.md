@@ -9,8 +9,11 @@
 ## Opdracht 1
 Door deze opdracht heb ik geleerd om websites niet alleen op uiterlijk te beoordelen, maar ook te kijken naar wat een website webby maakt. Ik heb geleerd om te letten op interactie, dynamiek, gebruik van het web en hoe een gebruiker de website ervaart. Ook heb ik gemerkt dat mijn eigen smaak invloed heeft op mijn mening. Dit helpt mij om beter na te denken over mijn eigen Digital Garden en welke interactieve elementen ik wil gebruiken.
 
-![alt text](readme-images/afbeelding1.jpg)
+![](readme-images/opdracht1.1.jpg)
+In duos besproken en beoordeeld a.d.h.v het blad
 
+![](readme-images/opdracht1.2.jpg)
+In groepjes samen besproken welke van de 4 websites het meeste webby en minst webby is.
 
 
 ## Opdracht 2 - Eigen verkenning
@@ -228,7 +231,7 @@ Ook heb ik geleerd hoe je custom properties kunt gebruiken om kleuren in CSS ove
 
 
 
-### Opdracht 12 – Bespreken huiswerk
+## Opdracht 12 – Bespreken huiswerk
 
 **1. Zijn mijn schetsen Webby genoeg?**
 
