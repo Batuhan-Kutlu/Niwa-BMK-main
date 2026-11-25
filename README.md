@@ -211,7 +211,7 @@ Ook heb ik geleerd hoe je custom properties kunt gebruiken om kleuren in CSS ove
 
 ## Mobile schetsen
 
-![alt text](schetsen1.png) ![alt text](schetsen2.jpg)
+![schetsen1](readme-images/schetsen1.png) ![alt text](schetsen2.jpg)
 
 ### Opdracht 12 – Bespreken huiswerk
 
