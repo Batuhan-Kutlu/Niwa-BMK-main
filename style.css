@@ -5,6 +5,7 @@
     --tekst: #211c18;
     --rood: #9b302f;
     --ruimte: 20px;
+    --achtergrondgs: #deceb5;
 }
 
 body {
@@ -12,6 +13,23 @@ body {
     background-color: var(--achtergrond);
     color: var(--tekst);
     font-family: Georgia, serif;
+
+    main {
+        section:nth-of-type(3) {
+            nav {
+                ul {
+                    list-style: none;
+
+                    a {
+                        img {
+                            width: 10rem;
+                            height: auto;
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
 
 header {
@@ -23,7 +41,7 @@ header {
 
 header a {
     color: var(--tekst);
-    font-size: 24px;
+    font-size: 14px;
     font-style: italic;
     text-decoration: none;
 }
@@ -31,7 +49,7 @@ header a {
 button {
     background: none;
     border: none;
-    font-size: 24px;
+    font-size: 14px;
 }
 
 section {
@@ -45,30 +63,28 @@ section img {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 30px;
     font-style: italic;
 }
 
 h2 {
-    font-size: 35px;
+    font-size: 20px;
     font-style: italic;
 }
 
 p {
-    font-size: 18px;
+    font-size: 12px;
 }
 
 section a {
     display: inline-block;
-    margin: 15px;
-    padding: 10px 20px;
+    padding: 5px 10px;
     border: 2px solid var(--rood);
     border-radius: 30px;
     color: var(--rood);
     text-decoration: none;
+    
 }
-
-
 
 li a:hover {
     background-color: var(--rood);
@@ -81,32 +97,65 @@ footer {
     border-top: 1px solid var(--tekst);
 }
 
+
+
+
 .hero {
     position: relative;
     overflow: hidden;
 }
 
+
+
+
 .colosseum {
-    width: 100%;
-    display: block;
+    position: absolute;
+    right: -35%;
+    top: 15%;
+    width: 80%;
+    max-width: 3000px;
+    
+
+    @media (min-width: 768px) {
+         right: -30%;
+    }
+    @media (width > 600px) {
+    top: -2%;    }
 }
+
 
 .sakura {
     position: absolute;
+    left: 0;
+    top: 20%;
+    width: 80%;
+    transform: translateY(-50%);
 
-    left: -20px;
-    bottom: 0;
-
-    width: 45%;
+     @media (min-width: 768px) {
+         left: 0;
+   
+    }
 }
 
+
+
 .hero-content {
-    position: absolute;
-
-    top: 50%;
+    /* position: absolute;
+    top: 30%;
     left: 50%;
+    transform: translate(-50%, -50%); */
+    text-align: left;
+    margin-top: 30%;    
+    
+     @media (min-width: 768px) {
+         right: -30%;
+   
+    }
+}
 
-    transform: translate(-50%, -50%);
+.goshuin {
+        background-color: var(--achtergrondgs);
 
-    text-align: center;
+
+
 }
