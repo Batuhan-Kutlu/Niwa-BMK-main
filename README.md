@@ -9,12 +9,14 @@
 ## Opdracht 1
 Door deze opdracht heb ik geleerd om websites niet alleen op uiterlijk te beoordelen, maar ook te kijken naar wat een website webby maakt. Ik heb geleerd om te letten op interactie, dynamiek, gebruik van het web en hoe een gebruiker de website ervaart. Ook heb ik gemerkt dat mijn eigen smaak invloed heeft op mijn mening. Dit helpt mij om beter na te denken over mijn eigen Digital Garden en welke interactieve elementen ik wil gebruiken.
 
+![alt text](readme-images/afbeelding1.jpg)
+
 
 
 ## Opdracht 2 - Eigen verkenning
 
 
-### Mijn Digital Garden: NIWA BMK
+Mijn Digital Garden: NIWA BMK
 
 Voor mijn Digital Garden wil ik een persoonlijke website maken die NIWA BMK heet. *Niwa* betekent “tuin” in het Japans. Mijn website wordt geïnspireerd door het Colosseum in Rome. Ik wil dat de bezoeker in het midden van het Colosseum begint. Vanuit daar kan de bezoeker verschillende poorten ontdekken en openen.
 
@@ -82,7 +84,9 @@ In plaats van alleen te vertellen wie ik ben, wil ik dat mensen mijn website zel
 
 Het Colosseum is hierbij mijn wereld. De verschillende poorten laten verschillende kanten van mij zien.
 
-# Checkout 
+
+
+## Checkout 
 
 **1. Wat is een Digital Garden?**
 
@@ -94,7 +98,8 @@ Een website is webby als je gebruikmaakt van interactie, animaties, hover-effect
 
 **3. Mijn Digital Garden**
 
-Mijn Digital Garden heet **NIWA BMK**. Ik maak een digitaal Colosseum waarin verschillende poorten verschillende kanten van mij laten zien. Met inspiratie uit de Japanse **Goshuin** kan de bezoeker digitale stempels verzamelen tijdens het ontdekken.
+Mijn Digital Garden heet NIWA BMK. Ik maak een digitaal Colosseum waarin verschillende poorten verschillende kanten van mij laten zien. Met inspiratie uit de Japanse Goshuin kan de bezoeker digitale stempels verzamelen tijdens het ontdekken.
+
 
 
 ## Di: Practicum Light & Dark theme (Sanne)
@@ -110,6 +115,7 @@ Wat ik vooral uit het practicum heb gehaald, is dat custom properties ervoor zor
 ![alt text](readme-images/lightdark_practicum.png)
 ![alt text](readme-images/lightdark_practicum2.png)
 ![alt text](readme-images/lightdark_practicum3.png)
+
 
 
 ## Presenteren NIWA BK
@@ -145,6 +151,7 @@ Ik haal inspiratie uit Romeinse bogen en architectuur, maar ook uit Japanse patr
  ![alt text](readme-images/uitgangpunten_collage.png)
 
 
+
 ## Feedback crazy 8 – NIWA BMK
 
 **1. Wat zijn de beste ideeën en waarom?**
@@ -162,12 +169,13 @@ Ja. De poorten kunnen klikbare onderdelen worden. De kleuren kunnen crème, zand
 **4. Is het expressief en uitdagend?**
 
 Ja. Ik kan werken met animaties waarbij poorten openen, stempels verschijnen en pagina's vloeiend overgaan. Hiermee kan ik nieuwe CSS en JavaScript technieken leren.
-![alt text](image.png)
+![](readme-images/crazy8.jpg)
+
 
 
  ## Mogelijke kleurenpallet uit inspiratie van de collage
 
- ![alt text](kleurenpallet.png)
+ ![](readme-images/kleurenpallet.png)
 
 Mijn huidige kleurenpalet is gebaseerd op de vier gekozen afbeeldingen uit mijn visual research. Ik wil vooral werken met verschillende zachte creme en zandtinten, gecombineerd met 1 duidelijke accentkleur: bordeauxrood.
 
@@ -175,13 +183,16 @@ Omdat mijn drie thema’s verschillende stijlen combineren, wil ik met het kleur
 
 Door deze kleuren als basis te gebruiken en bordeauxrood als accentkleur in te zetten, wil ik deze twee stijlen met elkaar verbinden. Zo blijft de website rustig en classy, maar krijgt het ook genoeg contrast en karakter.
 
+
+
 ## Mogelijke typografie
 
 Mogelijk typografie mix met kallografie van goshuin en de klassiekheid van de romeinse stijl.
 
-![alt text](readme-images/mlettertype1.png)
-![alt text](readme-images/mlettertype2.png)
-![alt text](readme-images/mlettertype3.png)
+![ ](readme-images/mlettertype1.png)
+![ ](readme-images/mlettertype2.png)
+![ ](readme-images/mlettertype3.png)
+
 
 
 ## Check-out
@@ -199,6 +210,7 @@ Mijn Digital Garden NIWA BMK gaat over mij, mijn herinneringen en interesses. He
 Ik wil het idee van het Colosseum als startpunt verder onderzoeken. De verschillende poorten leiden naar onderdelen van mijn en bijvoorbeeld interesses.
 
 
+
 ## Wat ik uit het practicum heb gehaald
 
 Tijdens dit practicum heb ik geleerd hoe je **kleuren en gradients in CSS** kunt gebruiken. Ik heb verschillende soorten gradients uitgeprobeerd, zoals linear-gradient(), radial-gradient() en conic-gradient().
@@ -209,9 +221,12 @@ Ook heb ik geleerd hoe je custom properties kunt gebruiken om kleuren in CSS ove
 ![alt text](readme-images/turksevlagprac.png)
 
 
+
 ## Mobile schetsen
 
 ![alt text](readme-images/schetsen2.jpg) ![schetsen1](readme-images/schetsen1.png)
+
+
 
 ### Opdracht 12 – Bespreken huiswerk
 
@@ -251,10 +266,10 @@ Voor Mijn Werelden heb ik meerdere onderdelen die bij elkaar horen bij elkaar ge
 ![alt text](readme-images/opdracht18.jpg)
 
 
+
 ## Check out
 
 Ik kreeg feedback dat er goed is nagedacht over het grote verschil tussen de twee stijlen. De dynamiek tussen de Romeinse en Japanse stijl is slim gedempt door mijn gekozen kleurenpalet. Ook kreeg ik tips over hoe ik het beste kan beginnen met het maken van mijn HTML.
-
 
 
 
@@ -265,9 +280,12 @@ Voor deze opdracht heb ik mijn mobiele schermschets van mijn Digital Garden late
 ![alt text](readme-images/opdracht18.jpg)
 
 
+
 ## Opdracht 19 & 20
 
 ![alt text](readme-images/opdracht1920.jpg)
+
+
 
 ## Van HTML naar CSS
 
@@ -277,11 +295,12 @@ Daarna heb ik de verschillende onderdelen van mijn website gestyled, zoals de he
 
 Ik heb hierbij opnieuw hulp en tips gekregen van de hulpstudenten. Zij hebben mij geholpen met het positioneren van de afbeeldingen en met het begrijpen en toepassen van media queries. Ook kreeg ik verschillende losse tips over mijn CSS en hoe ik bepaalde onderdelen beter kon aanpassen.
 
+
+
 ## Tot nu toe
 
 ![](readme-images/totnutoe1.png)
 ![](readme-images/totnutoe2.png)
-
 
 
 
