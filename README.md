@@ -281,3 +281,19 @@ Ik heb hierbij opnieuw hulp en tips gekregen van de hulpstudenten. Zij hebben mi
 
 ![](readme-images/totnutoe1.png)
 ![](readme-images/totnutoe2.png)
+
+
+
+
+
+
+## Bronnen
+
+![](readme-images/bron1.png)
+![](readme-images/bron2.png)
+![](readme-images/bron3.png)
+
+Tijdelijke afbeeldingen!
+
+
+
